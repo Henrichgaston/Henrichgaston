@@ -1,7 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
   <h1 align="center"> Hi, I'm Gaston Henrich</h1>
-  <h3 align="center"> I am passionate about technology, with a great ability to solve problems and a self-taught attitude. I love learning new things and i am always looking for challenges that allow me to develop my skills. Some time ago, I decided to take a turn in my life and become a developer, which has allowed me to explore my creativity and use my abilities to design innovative solutions in the digital world. With my natural curiosity and perseverance, I have become a competent developer and am always looking for new challenges that allow me to continue growing in my career.</h3>
+  <h3 align="center"> 
+Hello there! I'm Gaston Henrich, a passionate and self-taught technologist with a deep curiosity for all things tech. My GitHub portfolio is a testament to my dedication and ongoing journey in the world of development.
+
+With a focus on clean and efficient code, my projects demonstrate my technical proficiency and commitment to industry best practices. I thrive on pushing boundaries and applying my skills to create functional and impactful applications.
+
+What sets me apart is my belief in the power of collaboration. I value teamwork, as it fosters creativity and drives innovation. I'm always excited to collaborate with like-minded individuals on meaningful projects.
+
+My GitHub portfolio showcases my ongoing learning and growth. I'm constantly seeking opportunities to expand my knowledge, stay up to date with industry trends, and tackle new challenges.
+
+Thank you for taking the time to explore my GitHub portfolio. I'm open to collaborations, feedback, and connecting with fellow developers. Let's join forces and shape a better future through technology!</h3>
 </div>    
 
 ---
